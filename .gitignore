@@ -1,0 +1,22 @@
+# Python/Flask
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env
+
+# OS Files & IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Heavy Media/Test Files (Keep demo.gif)
+*.mp4
+*.mov
+*.avi
+!demo.gif
